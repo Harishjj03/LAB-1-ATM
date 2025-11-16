@@ -9,7 +9,7 @@ to withdraw money,deposit.
 ### UML DIAGRAMS:
 ## USE CASE:
 <img width="1157" height="1000" alt="Screenshot 2025-09-22 102331" src="https://github.com/user-attachments/assets/b76bfb03-12ef-4047-98e9-112e4c9fd9ff" />
-## ACTIVITY:
+### ACTIVITY:
 <img width="1228" height="1009" alt="Screenshot 2025-09-22 102627" src="https://github.com/user-attachments/assets/ca9211f0-77f6-4295-99db-76a48c6d5b13" />
 ## CLASS:
 <img width="1224" height="996" alt="Screenshot 2025-09-22 102745" src="https://github.com/user-attachments/assets/ede719a3-bdc7-4fee-a7b6-bae7442146d5" />
